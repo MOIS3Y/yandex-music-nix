@@ -1,0 +1,18 @@
+# Nix and upstream archives
+result
+result-*
+*.deb
+
+# direnv
+.direnv/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating systems
+.DS_Store
+Thumbs.db
